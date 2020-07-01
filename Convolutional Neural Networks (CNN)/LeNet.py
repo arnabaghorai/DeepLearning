@@ -1,0 +1,3 @@
+class LeNet:
+    pass
+
